@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align=center>
+    <center><h1>Hi there 👋🏻</h1></center>
+<div>
 
-<!--
-**jmngeo/jmngeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/jmngeo?style=social)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I was born in Kerala, India
+- I'm living now in India
+- Bachelor's Degree in Computer Science at [MEC](https://www.mec.ac.in)
+- I'm currently working at [Cognizant](https://www.cognizant.com)
+- I speak English, Malayalam
+- I'm working with Java, Python, Javascript
+- I've experienced in Selenium Automation
